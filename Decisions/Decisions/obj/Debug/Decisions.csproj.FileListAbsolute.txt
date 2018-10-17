@@ -1,0 +1,7 @@
+C:\Users\Mayank Dabas\Desktop\jaatdude\C# Project File\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Mayank Dabas\Desktop\jaatdude\C# Project File\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\Mayank Dabas\Desktop\jaatdude\C# Project File\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Mayank Dabas\Desktop\jaatdude\C# Project File\Decisions\Decisions\obj\Debug\Decisions.csprojAssemblyReference.cache
+C:\Users\Mayank Dabas\Desktop\jaatdude\C# Project File\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Mayank Dabas\Desktop\jaatdude\C# Project File\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Mayank Dabas\Desktop\jaatdude\C# Project File\Decisions\Decisions\obj\Debug\Decisions.pdb
