@@ -12,6 +12,13 @@ namespace HelloWorld
         {
             //Prints "Hello World!!!" to your console windows.
             Console.WriteLine("Hello World!!!");
+
+            //This statement waits for input from user. 
+            //If we don't use this statement, console 
+            //window will not wait for input from user
+            //and will close automatically like a flash
+            //of light.
+
             Console.ReadLine();
 
         }
