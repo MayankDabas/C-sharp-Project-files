@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\understandingArrays\understandingArrays\bin\Debug\understandingArrays.exe.config
+E:\jaatdude\C# Project File\understandingArrays\understandingArrays\bin\Debug\understandingArrays.exe
+E:\jaatdude\C# Project File\understandingArrays\understandingArrays\bin\Debug\understandingArrays.pdb
+E:\jaatdude\C# Project File\understandingArrays\understandingArrays\obj\Debug\understandingArrays.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\understandingArrays\understandingArrays\obj\Debug\understandingArrays.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\understandingArrays\understandingArrays\obj\Debug\understandingArrays.exe
+E:\jaatdude\C# Project File\understandingArrays\understandingArrays\obj\Debug\understandingArrays.pdb
