@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.exe.config
+E:\jaatdude\C# Project File\SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.exe
+E:\jaatdude\C# Project File\SimpleMethods\SimpleMethods\bin\Debug\SimpleMethods.pdb
+E:\jaatdude\C# Project File\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.exe
+E:\jaatdude\C# Project File\SimpleMethods\SimpleMethods\obj\Debug\SimpleMethods.pdb
