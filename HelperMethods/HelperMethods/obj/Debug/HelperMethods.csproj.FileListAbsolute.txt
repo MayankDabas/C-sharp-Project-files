@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+E:\jaatdude\C# Project File\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+E:\jaatdude\C# Project File\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+E:\jaatdude\C# Project File\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\HelperMethods\HelperMethods\obj\Debug\HelperMethods.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+E:\jaatdude\C# Project File\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
