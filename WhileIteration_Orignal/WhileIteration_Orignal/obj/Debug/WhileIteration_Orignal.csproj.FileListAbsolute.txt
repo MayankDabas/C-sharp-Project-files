@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\WhileIteration_Orignal\WhileIteration_Orignal\bin\Debug\WhileIteration_Orignal.exe.config
+E:\jaatdude\C# Project File\WhileIteration_Orignal\WhileIteration_Orignal\bin\Debug\WhileIteration_Orignal.exe
+E:\jaatdude\C# Project File\WhileIteration_Orignal\WhileIteration_Orignal\bin\Debug\WhileIteration_Orignal.pdb
+E:\jaatdude\C# Project File\WhileIteration_Orignal\WhileIteration_Orignal\obj\Debug\WhileIteration_Orignal.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\WhileIteration_Orignal\WhileIteration_Orignal\obj\Debug\WhileIteration_Orignal.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\WhileIteration_Orignal\WhileIteration_Orignal\obj\Debug\WhileIteration_Orignal.exe
+E:\jaatdude\C# Project File\WhileIteration_Orignal\WhileIteration_Orignal\obj\Debug\WhileIteration_Orignal.pdb
