@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\DudeGame\DudeGame\bin\Debug\DudeGame.exe.config
+E:\jaatdude\C# Project File\DudeGame\DudeGame\bin\Debug\DudeGame.exe
+E:\jaatdude\C# Project File\DudeGame\DudeGame\bin\Debug\DudeGame.pdb
+E:\jaatdude\C# Project File\DudeGame\DudeGame\obj\Debug\DudeGame.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\DudeGame\DudeGame\obj\Debug\DudeGame.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\DudeGame\DudeGame\obj\Debug\DudeGame.exe
+E:\jaatdude\C# Project File\DudeGame\DudeGame\obj\Debug\DudeGame.pdb
