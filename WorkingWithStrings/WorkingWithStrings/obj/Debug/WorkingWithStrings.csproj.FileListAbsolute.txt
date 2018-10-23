@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+E:\jaatdude\C# Project File\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+E:\jaatdude\C# Project File\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+E:\jaatdude\C# Project File\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+E:\jaatdude\C# Project File\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
