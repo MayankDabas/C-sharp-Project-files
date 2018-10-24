@@ -19,9 +19,11 @@ vii)HelperMethods
 
 viii)WhileIteration
 
-ix)Methods_2
+ix)NestedLoops
 
-x)WorkingWithStrings
+x)Methods_2
+
+xi)WorkingWithStrings
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
