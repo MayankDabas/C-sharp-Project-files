@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\DateandTime\DateandTime\bin\Debug\DateandTime.exe.config
+E:\jaatdude\C# Project File\DateandTime\DateandTime\bin\Debug\DateandTime.exe
+E:\jaatdude\C# Project File\DateandTime\DateandTime\bin\Debug\DateandTime.pdb
+E:\jaatdude\C# Project File\DateandTime\DateandTime\obj\Debug\DateandTime.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\DateandTime\DateandTime\obj\Debug\DateandTime.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\DateandTime\DateandTime\obj\Debug\DateandTime.exe
+E:\jaatdude\C# Project File\DateandTime\DateandTime\obj\Debug\DateandTime.pdb
