@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+E:\jaatdude\C# Project File\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+E:\jaatdude\C# Project File\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+E:\jaatdude\C# Project File\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+E:\jaatdude\C# Project File\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb
