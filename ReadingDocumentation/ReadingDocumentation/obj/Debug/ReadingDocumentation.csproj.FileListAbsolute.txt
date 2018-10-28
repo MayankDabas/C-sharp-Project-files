@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\ReadingDocumentation\ReadingDocumentation\bin\Debug\ReadingDocumentation.exe.config
+E:\jaatdude\C# Project File\ReadingDocumentation\ReadingDocumentation\bin\Debug\ReadingDocumentation.exe
+E:\jaatdude\C# Project File\ReadingDocumentation\ReadingDocumentation\bin\Debug\ReadingDocumentation.pdb
+E:\jaatdude\C# Project File\ReadingDocumentation\ReadingDocumentation\obj\Debug\ReadingDocumentation.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\ReadingDocumentation\ReadingDocumentation\obj\Debug\ReadingDocumentation.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\ReadingDocumentation\ReadingDocumentation\obj\Debug\ReadingDocumentation.exe
+E:\jaatdude\C# Project File\ReadingDocumentation\ReadingDocumentation\obj\Debug\ReadingDocumentation.pdb
