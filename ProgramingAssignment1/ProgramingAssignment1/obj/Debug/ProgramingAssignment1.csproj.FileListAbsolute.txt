@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\ProgramingAssignment1\ProgramingAssignment1\bin\Debug\ProgramingAssignment1.exe.config
+E:\jaatdude\C# Project File\ProgramingAssignment1\ProgramingAssignment1\bin\Debug\ProgramingAssignment1.exe
+E:\jaatdude\C# Project File\ProgramingAssignment1\ProgramingAssignment1\bin\Debug\ProgramingAssignment1.pdb
+E:\jaatdude\C# Project File\ProgramingAssignment1\ProgramingAssignment1\obj\Debug\ProgramingAssignment1.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\ProgramingAssignment1\ProgramingAssignment1\obj\Debug\ProgramingAssignment1.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\ProgramingAssignment1\ProgramingAssignment1\obj\Debug\ProgramingAssignment1.exe
+E:\jaatdude\C# Project File\ProgramingAssignment1\ProgramingAssignment1\obj\Debug\ProgramingAssignment1.pdb
