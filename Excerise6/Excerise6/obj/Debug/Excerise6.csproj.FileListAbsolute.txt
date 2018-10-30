@@ -1,0 +1,7 @@
+E:\jaatdude\C# Project File\Excerise6\Excerise6\bin\Debug\Excerise6.exe.config
+E:\jaatdude\C# Project File\Excerise6\Excerise6\bin\Debug\Excerise6.exe
+E:\jaatdude\C# Project File\Excerise6\Excerise6\bin\Debug\Excerise6.pdb
+E:\jaatdude\C# Project File\Excerise6\Excerise6\obj\Debug\Excerise6.csprojAssemblyReference.cache
+E:\jaatdude\C# Project File\Excerise6\Excerise6\obj\Debug\Excerise6.csproj.CoreCompileInputs.cache
+E:\jaatdude\C# Project File\Excerise6\Excerise6\obj\Debug\Excerise6.exe
+E:\jaatdude\C# Project File\Excerise6\Excerise6\obj\Debug\Excerise6.pdb
